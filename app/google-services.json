@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182773616308",
+    "project_id": "campus-box-81d74",
+    "storage_bucket": "campus-box-81d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182773616308:android:dbbd3f55f75ec6402451e1",
+        "android_client_info": {
+          "package_name": "com.example.campusbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182773616308-8cj0vv14t2tetsh1tm5n1cartc3hbeoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxNjWpIEx6z-ipE-NN1GpiYBToWrlnTnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182773616308-8cj0vv14t2tetsh1tm5n1cartc3hbeoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
